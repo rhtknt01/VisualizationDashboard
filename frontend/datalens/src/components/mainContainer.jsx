@@ -4,9 +4,12 @@ import SimpleLineChart from "./charts/simpleLineChart";
 import MixedChart from "./charts/mixedChart";
 import { useDispatch } from "react-redux";
 import { setCategoryFilter } from "../redux_store/features/dashboardSlice";
-
+import { useSelector } from "react-redux";
 const MainContainer = () => {
   const dispatch = useDispatch();
+  const categoryFilter = useSelector((state)=>{
+    return state.dashboardStore.categoryFilter;
+  });
   return (
     <Box p={1}>
       <Box>
@@ -97,7 +100,7 @@ const MainContainer = () => {
             padding: "1rem",
           }}
         >
-          {"region"} Wise Analysis
+          {categoryFilter} Wise Analysis
         </Typography>
         <Stack
           direction="row"
