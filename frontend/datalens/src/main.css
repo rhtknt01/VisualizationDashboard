@@ -1,0 +1,80 @@
+/* Yellow color */
+/* Dark brown color */
+/* Silver color */
+/* Scarlet color */
+/* Grass green color */
+/* Goldenrod color */
+/* Purple color */
+/* Teal color */
+/* Orange color */
+/* Pink color */
+/* Lavender color */
+/* Sky blue color */
+/* Lime color */
+/* Violet color */
+/* Turquoise color */
+/* Maroon color */
+/* Olive color */
+/* Indigo color */
+/* Cornflower blue color */
+/* Coral color */
+/* Chocolate color */
+/* Forest green color */
+/* Slate gray color */
+/* Crimson color */
+/* Navy color */
+/* Orchid color */
+/* Sienna color */
+/* Cyan color */
+/* Steel blue color */
+/* Thistle color */
+/* Medium slate blue color */
+/* Dodger blue color */
+/* Hot pink color */
+/* Deep sky blue color */
+/* Medium violet red color */
+/* Tomato color */
+/* Medium sea green color */
+/* Royal blue color */
+/* Medium orchid color */
+/* Lime green color */
+/* Dark orchid color */
+/* Medium aquamarine color */
+/* Firebrick color */
+/* Pale violet red color */
+/* Cadet blue color */
+/* Rosy brown color */
+/* Light coral color */
+/* Dark slate blue color */
+/* Sandy brown color */
+/* Light sea green color */
+/* Medium spring green color */
+/* Burlywood color */
+/* Peru color */
+/* Dark turquoise color */
+/* Dark cyan color */
+/* Medium blue color */
+/* Dark magenta color */
+/* Medium purple color */
+/* Medium orchid color */
+/* Dark khaki color */
+/* Dark olive green color */
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.icon {
+  color: "#08105d";
+  font-size: 4rem;
+}
+
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 60%;
+  }
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,277 @@
+// colors and shadows
+$blue: #0F56B3;
+$red: #DA100B;
+$green: #1F8B24;
+$yellow: #FFD700; /* Yellow color */
+$dark-brown: #7F4C0A; /* Dark brown color */
+$silver: #C0C0C0; /* Silver color */
+$scarlet: #F5413D; /* Scarlet color */
+$grass-green: #2AB930; /* Grass green color */
+$goldenrod: #ED9526; /* Goldenrod color */
+$purple: #6A0DAD; /* Purple color */
+$teal: #007F7F; /* Teal color */
+$orange: #FFA500; /* Orange color */
+$pink: #FF69B4; /* Pink color */
+$lavender: #E6E6FA; /* Lavender color */
+$sky-blue: #87CEEB; /* Sky blue color */
+$lime: #00FF00; /* Lime color */
+$violet: #8A2BE2; /* Violet color */
+$turquoise: #40E0D0; /* Turquoise color */
+$maroon: #800000; /* Maroon color */
+$olive: #808000; /* Olive color */
+$indigo: #4B0082; /* Indigo color */
+$cornflower-blue: #6495ED; /* Cornflower blue color */
+$coral: #FF7F50; /* Coral color */
+$chocolate: #D2691E; /* Chocolate color */
+$forest-green: #228B22; /* Forest green color */
+$slate-gray: #708090; /* Slate gray color */
+$crimson: #DC143C; /* Crimson color */
+$navy: #000080; /* Navy color */
+$orchid: #DA70D6; /* Orchid color */
+$sienna: #A0522D; /* Sienna color */
+$cyan: #00FFFF; /* Cyan color */
+$steel-blue: #4682B4; /* Steel blue color */
+$thistle: #D8BFD8; /* Thistle color */
+$medium-slate-blue: #7B68EE; /* Medium slate blue color */
+$dodger-blue: #1E90FF; /* Dodger blue color */
+$hot-pink: #FF69B4; /* Hot pink color */
+$deep-sky-blue: #00BFFF; /* Deep sky blue color */
+$medium-violet-red: #C71585; /* Medium violet red color */
+$tomato: #FF6347; /* Tomato color */
+$medium-sea-green: #3CB371; /* Medium sea green color */
+$royal-blue: #4169E1; /* Royal blue color */
+$medium-orchid: #BA55D3; /* Medium orchid color */
+$lime-green: #32CD32; /* Lime green color */
+$dark-orchid: #9932CC; /* Dark orchid color */
+$medium-aquamarine: #66CDAA; /* Medium aquamarine color */
+$firebrick: #B22222; /* Firebrick color */
+$pale-violet-red: #DB7093; /* Pale violet red color */
+$cadet-blue: #5F9EA0; /* Cadet blue color */
+$rosy-brown: #BC8F8F; /* Rosy brown color */
+$light-coral: #F08080; /* Light coral color */
+$dark-slate-blue: #483D8B; /* Dark slate blue color */
+$sandy-brown: #F4A460; /* Sandy brown color */
+$light-sea-green: #20B2AA; /* Light sea green color */
+$medium-spring-green: #00FA9A; /* Medium spring green color */
+$burlywood: #DEB887; /* Burlywood color */
+$peru: #CD853F; /* Peru color */
+$dark-turquoise: #00CED1; /* Dark turquoise color */
+$dark-cyan: #008B8B; /* Dark cyan color */
+$medium-blue: #0000CD; /* Medium blue color */
+$dark-magenta: #8B008B; /* Dark magenta color */
+$medium-purple: #9370DB; /* Medium purple color */
+$medium-orchid: #BA55D3; /* Medium orchid color */
+$dark-khaki: #BDB76B; /* Dark khaki color */
+$dark-olive-green: #556B2F; /* Dark olive green color */
+
+
+$shadow-dark-brown: 0px 4px 8px rgba(127, 76, 10, 0.3);
+$shadow-dark-brown-hover: 0px 6px 10px rgba(127, 76, 10, 0.4);
+
+$shadow-silver: 0px 4px 8px rgba(192, 192, 192, 0.3);
+$shadow-silver-hover: 0px 6px 10px rgba(192, 192, 192, 0.4);
+
+$shadow-scarlet: 0px 4px 8px rgba(245, 65, 61, 0.3);
+$shadow-scarlet-hover: 0px 6px 10px rgba(245, 65, 61, 0.4);
+
+$shadow-grass-green: 0px 4px 8px rgba(42, 185, 48, 0.3);
+$shadow-grass-green-hover: 0px 6px 10px rgba(42, 185, 48, 0.4);
+
+$shadow-goldenrod: 0px 4px 8px rgba(237, 149, 38, 0.3);
+$shadow-goldenrod-hover: 0px 6px 10px rgba(237, 149, 38, 0.4);
+
+$shadow-purple: 0px 4px 8px rgba(106, 13, 173, 0.3);
+$shadow-purple-hover: 0px 6px 10px rgba(106, 13, 173, 0.4);
+
+$shadow-teal: 0px 4px 8px rgba(0, 127, 127, 0.3);
+$shadow-teal-hover: 0px 6px 10px rgba(0, 127, 127, 0.4);
+
+$shadow-orange: 0px 4px 8px rgba(255, 165, 0, 0.3);
+$shadow-orange-hover: 0px 6px 10px rgba(255, 165, 0, 0.4);
+
+$shadow-pink: 0px 4px 8px rgba(255, 105, 180, 0.3);
+$shadow-pink-hover: 0px 6px 10px rgba(255, 105, 180, 0.4);
+
+$shadow-lavender: 0px 4px 8px rgba(230, 230, 250, 0.3);
+$shadow-lavender-hover: 0px 6px 10px rgba(230, 230, 250, 0.4);
+
+$shadow-sky-blue: 0px 4px 8px rgba(135, 206, 235, 0.3);
+$shadow-sky-blue-hover: 0px 6px 10px rgba(135, 206, 235, 0.4);
+
+$shadow-lime: 0px 4px 8px rgba(0, 255, 0, 0.3);
+$shadow-lime-hover: 0px 6px 10px rgba(0, 255, 0, 0.4);
+
+$shadow-violet: 0px 4px 8px rgba(138, 43, 226, 0.3);
+$shadow-violet-hover: 0px 6px 10px rgba(138, 43, 226, 0.4);
+
+$shadow-turquoise: 0px 4px 8px rgba(64, 224, 208, 0.3);
+$shadow-turquoise-hover: 0px 6px 10px rgba(64, 224, 208, 0.4);
+
+$shadow-maroon: 0px 4px 8px rgba(128, 0, 0, 0.3);
+$shadow-maroon-hover: 0px 6px 10px rgba(128, 0, 0, 0.4);
+
+$shadow-olive: 0px 4px 8px rgba(128, 128, 0, 0.3);
+$shadow-olive-hover: 0px 6px 10px rgba(128, 128, 0, 0.4);
+
+$shadow-indigo: 0px 4px 8px rgba(75, 0, 130, 0.3);
+$shadow-indigo-hover: 0px 6px 10px rgba(75, 0, 130, 0.4);
+
+$shadow-cornflower-blue: 0px 4px 8px rgba(100, 149, 237, 0.3);
+$shadow-cornflower-blue-hover: 0px 6px 10px rgba(100, 149, 237, 0.4);
+
+$shadow-coral: 0px 4px 8px rgba(255, 127, 80, 0.3);
+$shadow-coral-hover: 0px 6px 10px rgba(255, 127, 80, 0.4);
+
+$shadow-chocolate: 0px 4px 8px rgba(210, 105, 30, 0.3);
+$shadow-chocolate-hover: 0px 6px 10px rgba(210, 105, 30, 0.4);
+
+$shadow-forest-green: 0px 4px 8px rgba(34, 139, 34, 0.3);
+$shadow-forest-green-hover: 0px 6px 10px rgba(34, 139, 34, 0.4);
+
+$shadow-slate-gray: 0px 4px 8px rgba(112, 128, 144, 0.3);
+$shadow-slate-gray-hover: 0px 6px 10px rgba(112, 128, 144, 0.4);
+
+$shadow-crimson: 0px 4px 8px rgba(220, 20, 60, 0.3);
+$shadow-crimson-hover: 0px 6px 10px rgba(220, 20, 60, 0.4);
+
+$shadow-orchid: 0px 4px 8px rgba(218, 112, 214, 0.3);
+$shadow-orchid-hover: 0px 6px 10px rgba(218, 112, 214, 0.4);
+
+$shadow-sienna: 0px 4px 8px rgba(160, 82, 45, 0.3);
+$shadow-sienna-hover: 0px 6px 10px rgba(160, 82, 45, 0.4);
+
+$shadow-cyan: 0px 4px 8px rgba(0, 255, 255, 0.3);
+$shadow-cyan-hover: 0px 6px 10px rgba(0, 255, 255, 0.4);
+
+$shadow-steel-blue: 0px 4px 8px rgba(70, 130, 180, 0.3);
+$shadow-steel-blue-hover: 0px 6px 10px rgba(70, 130, 180, 0.4);
+
+$shadow-thistle: 0px 4px 8px rgba(216, 191, 216, 0.3);
+$shadow-thistle-hover: 0px 6px 10px rgba(216, 191, 216, 0.4);
+
+$shadow-medium-slate-blue: 0px 4px 8px rgba(123, 104, 238, 0.3);
+$shadow-medium-slate-blue-hover: 0px 6px 10px rgba(123, 104, 238, 0.4);
+
+$shadow-dodger-blue: 0px 4px 8px rgba(30, 144, 255, 0.3);
+$shadow-dodger-blue-hover: 0px 6px 10px rgba(30, 144, 255, 0.4);
+
+$shadow-hot-pink: 0px 4px 8px rgba(255, 105, 180, 0.3);
+$shadow-hot-pink-hover: 0px 6px 10px rgba(255, 105, 180, 0.4);
+
+$shadow-deep-sky-blue: 0px 4px 8px rgba(0, 191, 255, 0.3);
+$shadow-deep-sky-blue-hover: 0px 6px 10px rgba(0, 191, 255, 0.4);
+
+$shadow-medium-violet-red: 0px 4px 8px rgba(199, 21, 133, 0.3);
+$shadow-medium-violet-red-hover: 0px 6px 10px rgba(199, 21, 133, 0.4);
+
+$shadow-tomato: 0px 4px 8px rgba(255, 99, 71, 0.3);
+$shadow-tomato-hover: 0px 6px 10px rgba(255, 99, 71, 0.4);
+
+$shadow-medium-sea-green: 0px 4px 8px rgba(60, 179, 113, 0.3);
+$shadow-medium-sea-green-hover: 0px 6px 10px rgba(60, 179, 113, 0.4);
+
+$shadow-royal-blue: 0px 4px 8px rgba(65, 105, 225, 0.3);
+$shadow-royal-blue-hover: 0px 6px 10px rgba(65, 105, 225, 0.4);
+
+$shadow-medium-orchid: 0px 4px 8px rgba(186, 85, 211, 0.3);
+$shadow-medium-orchid-hover: 0px 6px 10px rgba(186, 85, 211, 0.4);
+
+$shadow-lime-green: 0px 4px 8px rgba(50, 205, 50, 0.3);
+$shadow-lime-green-hover: 0px 6px 10px rgba(50, 205, 50, 0.4);
+
+$shadow-dark-orchid: 0px 4px 8px rgba(153, 50, 204, 0.3);
+$shadow-dark-orchid-hover: 0px 6px 10px rgba(153, 50, 204, 0.4);
+
+$shadow-medium-aquamarine: 0px 4px 8px rgba(102, 205, 170, 0.3);
+$shadow-medium-aquamarine-hover: 0px 6px 10px rgba(102, 205, 170, 0.4);
+
+$shadow-firebrick: 0px 4px 8px rgba(178, 34, 34, 0.3);
+$shadow-firebrick-hover: 0px 6px 10px rgba(178, 34, 34, 0.4);
+
+$shadow-pale-violet-red: 0px 4px 8px rgba(219, 112, 147, 0.3);
+$shadow-pale-violet-red-hover: 0px 6px 10px rgba(219, 112, 147, 0.4);
+
+$shadow-cadet-blue: 0px 4px 8px rgba(95, 158, 160, 0.3);
+$shadow-cadet-blue-hover: 0px 6px 10px rgba(95, 158, 160, 0.4);
+
+$shadow-rosy-brown: 0px 4px 8px rgba(188, 143, 143, 0.3);
+$shadow-rosy-brown-hover: 0px 6px 10px rgba(188, 143, 143, 0.4);
+
+$shadow-light-coral: 0px 4px 8px rgba(240, 128, 128, 0.3);
+$shadow-light-coral-hover: 0px 6px 10px rgba(240, 128, 128, 0.4);
+
+$shadow-dark-slate-blue: 0px 4px 8px rgba(72, 61, 139, 0.3);
+$shadow-dark-slate-blue-hover: 0px 6px 10px rgba(72, 61, 139, 0.4);
+
+$shadow-sandy-brown: 0px 4px 8px rgba(244, 164, 96, 0.3);
+$shadow-sandy-brown-hover: 0px 6px 10px rgba(244, 164, 96, 0.4);
+
+$shadow-light-sea-green: 0px 4px 8px rgba(32, 178, 170, 0.3);
+$shadow-light-sea-green-hover: 0px 6px 10px rgba(32, 178, 170, 0.4);
+
+$shadow-medium-spring-green: 0px 4px 8px rgba(0, 250, 154, 0.3);
+$shadow-medium-spring-green-hover: 0px 6px 10px rgba(0, 250, 154, 0.4);
+
+$shadow-burlywood: 0px 4px 8px rgba(222, 184, 135, 0.3);
+$shadow-burlywood-hover: 0px 6px 10px rgba(222, 184, 135, 0.4);
+
+$shadow-peru: 0px 4px 8px rgba(205, 133, 63, 0.3);
+$shadow-peru-hover: 0px 6px 10px rgba(205, 133, 63, 0.4);
+
+$shadow-dark-turquoise: 0px 4px 8px rgba(0, 206, 209, 0.3);
+$shadow-dark-turquoise-hover: 0px 6px 10px rgba(0, 206, 209, 0.4);
+
+$shadow-dark-cyan: 0px 4px 8px rgba(0, 139, 139, 0.3);
+$shadow-dark-cyan-hover: 0px 6px 10px rgba(0, 139, 139, 0.4);
+
+$shadow-medium-blue: 0px 4px 8px rgba(0, 0, 205, 0.3);
+$shadow-medium-blue-hover: 0px 6px 10px rgba(0, 0, 205, 0.4);
+
+$shadow-dark-magenta: 0px 4px 8px rgba(139, 0, 139, 0.3);
+$shadow-dark-magenta-hover: 0px 6px 10px rgba(139, 0, 139, 0.4);
+
+$shadow-medium-purple: 0px 4px 8px rgba(147, 112, 219, 0.3);
+$shadow-medium-purple-hover: 0px 6px 10px rgba(147, 112, 219, 0.4);
+
+$shadow-medium-orchid: 0px 4px 8px rgba(186, 85, 211, 0.3);
+$shadow-medium-orchid-hover: 0px 6px 10px rgba(186, 85, 211, 0.4);
+
+$shadow-dark-khaki: 0px 4px 8px rgba(189, 183, 107, 0.3);
+$shadow-dark-khaki-hover: 0px 6px 10px rgba(189, 183, 107, 0.4);
+
+$shadow-dark-olive-green: 0px 4px 8px rgba(85, 107, 47, 0.3);
+$shadow-dark-olive-green-hover: 0px 6px 10px rgba(85, 107, 47, 0.4);
+
+
+
+$main-color:#fff;
+$text-shadow:0px 2px 4px rgba(0, 0, 0, 0.15);
+
+$login-btn-color:#fff;
+$login-btn-bgcolor:#708090;
+$login-btn-shadow:0px 4px 8px rgba(112, 128, 144, 0.3);
+$login-btn-shadow-hover:0px 6px 10px rgba(112, 128, 144, 0.4);
+
+$signup-btn-color:#fff;
+$signup-btn-bgcolor:$royal-blue;
+$signup-btn-shadow:$shadow-royal-blue;
+$signup-btn-shadow-hover:$shadow-royal-blue-hover;
+$border-color:rgba(0,0,0,0.2);
+
+
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    padding:0; margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.icon{
+    color:"#08105d";
+    font-size: 4rem;
+}
+@media screen and (max-width: 600px){
+    html{
+        font-size: 60%;
+    }
+}
